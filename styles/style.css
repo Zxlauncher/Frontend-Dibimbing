@@ -127,7 +127,7 @@ nav {
     align-items: flex-start;
     gap: 12px;
     padding: 70px 65px;
-    
+    max-width: 100%;
 }
 
 .home .img {
